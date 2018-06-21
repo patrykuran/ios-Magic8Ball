@@ -1,6 +1,0 @@
-version: "Apple Swift version 4.1 (swiftlang-902.0.48 clang-902.0.37.1)"
-options: "792be331351952ef08b2ca55603ec94f"
-build_time: [1529601953, 273077000]
-inputs:
-  "/Users/p.uran/Documents/ios bootcamp/apps/Magic 8 Ball/Magic8Ball/Magic8Ball/ViewController.swift": [1524504833, 0]
-  "/Users/p.uran/Documents/ios bootcamp/apps/Magic 8 Ball/Magic8Ball/Magic8Ball/AppDelegate.swift": [1524499703, 0]
